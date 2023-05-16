@@ -1,11 +1,12 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome: Cintia Ribeiro Santana.
+-Profissão: Bancária em transição para Engenheira QA.
+-Cidade: Embu das Artes - SP.
+-O que faz nas horas vaga: Musculação e leitura.
+-Feedback sobre o curso Qualidade de Software: Estou achando ótima a organização das aulas e clareza na explicação. Acho muito bom a cada módulo um exercício pois é onde 
+realmente analisamos se estamos aprendendo.
+-Feedback sobre a plataforma de estudo da EBAC: Intuitiva e visualmente bonita.
 
 Obrigado!!!
 
